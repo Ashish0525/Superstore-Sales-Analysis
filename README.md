@@ -29,9 +29,13 @@ This dashboard allowed the client to monitor business performance in real time, 
 
 **🛠️ Tools & Techniques Used:**
 -Power BI Desktop
+
 -Power Query (data cleaning & transformation)
+
 -DAX (Data Analysis Expressions)
+
 -Excel (initial data setup)
+
 -Forecasting visuals & KPI cards
 
 **Impact:**
