@@ -39,6 +39,7 @@ This dashboard allowed the client to monitor business performance in real time, 
 -Forecasting visuals & KPI cards
 
 **Impact:**
+
 This project demonstrates how data visualization can turn raw business data into meaningful insights. The client now has a single, automated dashboard that reduces reporting time, improves visibility, and supports smarter decision-making across teams.
 
 
