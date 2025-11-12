@@ -3,38 +3,38 @@ This project showcases a Power BI Sales Performance Dashboard designed to help b
 
 The client wanted a centralized, interactive dashboard to track sales trends, identify profitable regions, and forecast future demand. Their raw dataset was unstructured and difficult to interpret, so I used Power Query to clean and transform the data, created DAX measures to calculate KPIs such as total sales, profit, and average delivery days, and built interactive visuals to highlight key business insights.
 
-Key visuals include:
+**Key visuals include:**
 
-Sales and profit by category and sub-category (Technology, Office Supplies, Furniture)
+-Sales and profit by category and sub-category (Technology, Office Supplies, Furniture)
 
-Regional sales breakdown (West, East, South, Central)
+-Regional sales breakdown (West, East, South, Central)
 
-Payment mode and customer segment analysis
+-Payment mode and customer segment analysis
 
-Year-over-Year (YoY) comparison of sales and profits (2019–2020)
+-Year-over-Year (YoY) comparison of sales and profits (2019–2020)
 
-15–20-day sales forecast using Power BI’s forecasting visuals
+-15–20-day sales forecast using Power BI’s forecasting visuals
 
-From the analysis:
+**From the analysis:**
 
-The West region generated the highest sales (33%)
+-The West region generated the highest sales (33%)
 
-Consumer segment contributed 48% of total revenue
+-Consumer segment contributed 48% of total revenue
 
-COD payments accounted for 43% of all transactions
+-COD payments accounted for 43% of all transactions
 
-Sales in 2020 improved significantly compared to 2019 despite longer delivery periods
+-Streamline inventory forecasting for top categories using predictive analytic
 
 This dashboard allowed the client to monitor business performance in real time, identify growth opportunities, and make confident, data-backed decisions. The forecasting feature helped improve inventory planning and sales strategy, leading to more efficient resource allocation.
 
-🛠️ Tools & Techniques Used:
+**🛠️ Tools & Techniques Used:**
+-Power BI Desktop
+-Power Query (data cleaning & transformation)
+-DAX (Data Analysis Expressions)
+-Excel (initial data setup)
+-Forecasting visuals & KPI cards
 
-Power BI Desktop
+**Impact:**
+This project demonstrates how data visualization can turn raw business data into meaningful insights. The client now has a single, automated dashboard that reduces reporting time, improves visibility, and supports smarter decision-making across teams.
 
-Power Query (data cleaning & transformation)
 
-DAX (Data Analysis Expressions)
-
-Excel (initial data setup)
-
-Forecasting visuals & KPI cards
